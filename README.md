@@ -1,1 +1,1 @@
-# Gotealeaf-Prep-Course
+Tealeaf Academy initial prep course work.
